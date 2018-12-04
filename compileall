@@ -1,0 +1,5 @@
+#!/bin/bash
+make all
+
+# Reference
+# https://stackoverflow.com/questions/2841593/bash-script-bad-interpreter
